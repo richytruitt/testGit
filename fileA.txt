@@ -1,1 +1,1 @@
-modifying File A with something from branchB
+changing the file context to add my name
