@@ -1,1 +1,1 @@
-modifying File A With something from branch A
+modifying File A with something from branchB
