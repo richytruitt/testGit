@@ -1,1 +1,1 @@
-adding contents to file C
+changing the functionality of fileC
